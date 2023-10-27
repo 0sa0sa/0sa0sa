@@ -2,13 +2,14 @@
 ### 24 years old 
 ### Feel free to contact me anytime!👍
 #
-![0sa0sa](https://github-readme-stats.vercel.app/api?username=0sa0sa&show_icons=true&theme=vue-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0sa0sa&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0sa0sa&layout=compact&theme=catppuccin_mocha&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=0sa0sa&show_icons=true&theme=catppuccin_mocha" />
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=0sa0sa&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![My Twitter Followers](https://badgen.net/twitter/follow/3_osa_osa_osa)](https://twitter.com/3_osa_osa_osa)
+[![trophy](https://github-profile-trophy.vercel.app/?username=0sa0sa&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 # NOW TRAINING
