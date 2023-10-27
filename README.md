@@ -2,7 +2,7 @@
 ### 24 years old 
 ### Feel free to contact me anytime!👍
 #
-![0sa0sa](https://github-readme-stats.vercel.app/api?username=Foo_name&show_icons=true&theme=vue-dark)
+![0sa0sa](https://github-readme-stats.vercel.app/api?username=0sa0sa&show_icons=true&theme=vue-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0sa0sa&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
