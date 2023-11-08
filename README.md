@@ -1,6 +1,7 @@
 # Frontend Developer in Japan👋
-### 24 years old 
+
 ### Feel free to contact me anytime!👍
+### Also check my resume. https://github.com/0sa0sa/0sa0sa/blob/main/2023Resume.pdf
 #
 
 <!-- 
