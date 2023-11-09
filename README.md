@@ -2,7 +2,10 @@
 
 ### Feel free to contact me anytime!👍
 ### Also check my resume. https://github.com/0sa0sa/0sa0sa/blob/main/2023Resume.pdf
-#
+<!-- 
+created resume at: https://www.canva.com/
+got icons at: https://uxwing.com/
+-->
 
 <!-- 
 <p align="left"> 
